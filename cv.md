@@ -4,7 +4,7 @@
 
 3. I wish search Kotlin.
 
-4. Skills: SQL, delphi.
+4. Skills: SQL, delphi, rebol.
 
 5. Code example: 
 import terminal as term
