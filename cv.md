@@ -20,7 +20,7 @@ term.setForegroundColor(fgWhite)
 
 proc waitReturn* = discard readLine(stdin)
 
-6. Expirience: Delphi programmer.
+6. Expirience: economist, Delphi programmer.
 
 7. Education: BNTU, economic engineer.
 
